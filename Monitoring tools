@@ -4,3 +4,11 @@ $What is ELK Stack
 
 What is Beat and its fucntionality
 
+Nagios
+-----------
+
+Nagios Plugin Directory
+/usr/lib/nagios/plugins/
+
+at our client and add the Nagios Server IP in the
+edit the nrpe.cfg file and add the host address
